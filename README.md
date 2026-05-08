@@ -10,7 +10,6 @@
 </p>
 
 ### 🌐Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100034871136135) 
 [![Telegram](https://img.shields.io/badge/Telegram-%23004C8C.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/hcongdev)
 
 ### 🛠️ Languages & Tools:
